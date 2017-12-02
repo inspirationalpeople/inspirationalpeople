@@ -1,9 +1,10 @@
 title{color:green;}
-h1 {color: red;}
+h1 {color: #80080;
+	text-align: center;}
 h2 {color: green;}
 p {color: blue;
 	font-family: helvetica;
 	font-size: 16px}
-body{height: 100vh;
-		background-image: url(images/background.jpg);
-}
+body{background-image: url(images/background.jpg)
+	background-repeat: no-repeat;
+	}
