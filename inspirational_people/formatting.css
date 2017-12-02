@@ -5,6 +5,5 @@ h2 {color: green;}
 p {color: blue;
 	font-family: helvetica;
 	font-size: 16px}
-body{background-image: url(images/background.jpg)
-	background-repeat: no-repeat;
+body{background-image: url(images/background.jpg);
 	}
