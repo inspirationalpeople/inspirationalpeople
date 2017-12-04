@@ -1,12 +1,14 @@
-title{color:green;}
 h1 {color: #80080;
 	text-align: center;
-	font-family: Impact, sans-serif}
-h2 {color: green;}
+	font-family: Impact, sans-serif;
+	font-size: 30px;}
+h2 {color: green;
+	font-size: 24px}
 p {	font-family: helvetica;
-	font-size: 16px}
+	font-size: 20px}
 .row1 {color: darkslateblue}	
 .row2 {color: lightgray}
 .text {color: darkslateblue}
+.list {color: darkslateblue}
 body{background-image: url(images/background.jpg);
 	}
