@@ -6,10 +6,10 @@ h2 {color: green;
 	font-size: 24px}
 p {	font-family: helvetica;
 	font-size: 16px}
-.row1 {color: darkslateblue}	
+.row1 {color: indigo}	
 .row2 {color: lightgray}
-.text {color: darkslateblue}
-.list {color: darkslateblue}
+.text {color: indigo}
+.list {color: indigo}
 ul {	font-family: helvetica;
 	font-size: 20px}
 body{background-image: url(images/background.jpg);
