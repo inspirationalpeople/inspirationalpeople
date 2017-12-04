@@ -2,8 +2,9 @@ title{color:green;}
 h1 {color: #80080;
 	text-align: center;}
 h2 {color: green;}
-p {color: blue;
-	font-family: helvetica;
+p {	font-family: helvetica;
 	font-size: 16px}
+.row1 {color: slateblue}	
+.row2 {color: lightgray}
 body{background-image: url(images/background.jpg);
 	}
